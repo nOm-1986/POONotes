@@ -9,6 +9,6 @@ abstract class Base
     {
         // ...
     }
-
+    //Una clase abstracta puede tener métodos  abstractos, solo se definen.
     abstract public function store(); //
 }
