@@ -1,0 +1,21 @@
+{
+    "name": "fbeltran/reto",
+    "description": "Short practice of OOP and testing whit phpunit",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Reto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fabian Beltran",
+            "email": "joshefbeltran@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
